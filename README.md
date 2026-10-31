@@ -125,10 +125,8 @@ You can design your own maps and scheduling puzzles by editing the plain-text co
 
 ### 1. Clone the Repository
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ```bash
-git clone https://github.com/YOUR-USERNAME/optisweep-ai.git
+git clone https://github.com/Dev-Rayyan-Ahmed/optisweep-ai.git
 cd optisweep-ai
 ```
 
